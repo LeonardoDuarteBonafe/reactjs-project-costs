@@ -18,7 +18,7 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 2235,
+      "cost": 3000,
       "services": [
         {
           "name": "contratar dev",
@@ -27,10 +27,10 @@
           "id": "616140d6-0905-4f30-a798-b4d2a0c58b37"
         },
         {
-          "name": "novo servico",
-          "cost": "1234",
-          "description": "teste de descrição",
-          "id": "4fbc97f3-f0db-4300-84b3-f6fd94b70206"
+          "name": "teste 123",
+          "cost": "1999",
+          "description": "agora vai",
+          "id": "137211cc-cea1-45c3-8c11-4f1b3146c460"
         }
       ],
       "id": 4
