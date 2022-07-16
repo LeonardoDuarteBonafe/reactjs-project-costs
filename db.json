@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Projeto Teste",
-      "budget": "5000",
+      "budget": "5002",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -12,11 +12,11 @@
       "id": 3
     },
     {
-      "name": "Projeto Teste",
-      "budget": "5000",
+      "name": "projeto atualizado",
+      "budget": "13000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
@@ -40,8 +40,27 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 258,
+      "services": [
+        {
+          "name": "serviço",
+          "cost": "123",
+          "description": "teste 123",
+          "id": "2f99311c-4a04-4153-aac8-8db7bad453d6"
+        },
+        {
+          "name": "serviço",
+          "cost": "12",
+          "description": "teste 123",
+          "id": "1f91d1b0-b924-457f-a8b2-b95db383aa82"
+        },
+        {
+          "name": "serviço",
+          "cost": "123",
+          "description": "teste 123",
+          "id": "fdb516cb-4ad7-4250-9118-1d9fa49fd6d0"
+        }
+      ],
       "id": 8
     }
   ],
